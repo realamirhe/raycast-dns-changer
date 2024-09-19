@@ -16,7 +16,7 @@
       "name": "dns",
       "title": "dns",
       "description": "select dns server",
-      "mode": "view"
+      "mode": "no-view"
     }
   ],
   "dependencies": {
